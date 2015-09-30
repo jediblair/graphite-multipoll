@@ -1,0 +1,7 @@
+host,oid,iid
+172.16.1.1,ifHCInOctets,10
+172.16.1.1,ifHCInUcastPkts,10
+172.16.1.1,ifHCOutOctets,10
+172.16.1.2,ifHCInOctets,105
+172.16.1.2,ifHCInUcastPkts,105
+172.16.1.2,ifHCOutOctets,105
